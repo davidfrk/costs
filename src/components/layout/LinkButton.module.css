@@ -1,0 +1,11 @@
+.link_button {
+  background-color: var(--background-dark);
+  color: #fff;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.link_button:hover {
+  color: var(--project-color);
+}

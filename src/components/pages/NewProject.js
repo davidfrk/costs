@@ -1,7 +1,7 @@
 function NewProject () {
   return (
     <div id="new_project">
-      <p>Costs</p>
+      <p>Novo Projeto</p>
     </div>
   )
 }
