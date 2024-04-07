@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--background-dark, black);
+  padding: 1em 4em;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 12px;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: var(--project-color);
+}

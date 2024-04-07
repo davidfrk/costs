@@ -1,0 +1,31 @@
+footer {
+  background-color: var(--background-dark, black);
+  color: #fff;
+  padding: 3em;
+  text-align: center;
+}
+
+footer ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+
+footer li:hover {
+  color: var(--project-color)
+}
+
+footer svg {
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+footer p {
+  margin-top: 2em;
+}
+
+footer span {
+  font-weight: bold;
+  color: var(--project-color)
+}

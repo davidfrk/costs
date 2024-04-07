@@ -8,4 +8,6 @@
 html, body, #root {
   background-color: #efefef;
   height: 100%;
+  --project-color: #ffbb33;
+  --background-dark: #222;
 }

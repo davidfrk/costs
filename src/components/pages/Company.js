@@ -1,7 +1,7 @@
 function Company () {
   return (
     <div id="company">
-      <p>Costs</p>
+      <p>Empresa</p>
     </div>
   )
 }
