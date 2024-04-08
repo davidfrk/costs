@@ -21,6 +21,28 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "a94c",
+      "name": "d",
+      "budget": "1",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d065",
+      "name": "e",
+      "budget": "2",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
