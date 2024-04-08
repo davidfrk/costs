@@ -1,5 +1,28 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "id": "6363",
+      "name": "David",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a9b7",
+      "name": "Mês",
+      "budget": "4000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
   "categories": [
     {
       "id": 1,
