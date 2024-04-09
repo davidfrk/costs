@@ -24,8 +24,8 @@
     },
     {
       "id": "8988",
-      "name": "adwdgf",
-      "budget": "2131",
+      "name": "Projeto atualizado",
+      "budget": "0",
       "category": {
         "id": "3",
         "name": "Design"
@@ -47,19 +47,19 @@
   ],
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Infra"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Desenvolvimento"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Design"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Planejamento"
     }
   ]
