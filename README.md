@@ -4,6 +4,6 @@ Training project developed with React, following a course from [https://www.yout
 
 ## Pages
 
-![Home](image_url)
-![Projects](image_url)
-![Services](image_url)
+![Home](https://github.com/davidfrk/costs/blob/main/public/resources/costs.png)
+![Projects](https://github.com/davidfrk/costs/blob/main/public/resources/costs-projects.png)
+![Services](https://github.com/davidfrk/costs/blob/main/public/resources/costs-services.png)
