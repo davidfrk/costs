@@ -1,4 +1,4 @@
-import { parse, v4 as uuidv4 } from 'uuid'
+import { v4 as uuidv4 } from 'uuid'
 
 import { useParams } from 'react-router-dom'
 import { useState, useEffect } from 'react'
@@ -96,8 +96,26 @@ function Project() {
       .catch(err => console.log(err))
   }
 
-  function removeService() {
+  function removeService(serviceId) {
+    setMessage('')
 
+    const newServices = project.services.filter(service => service.id !== serviceId)
+    const newCost = newServices.reduce((accumulator, current) => (accumulator + parseFloat(current.cost)), 0)
+    const newProject = {...project, services: newServices, cost: newCost}
+
+    fetch(`http://localhost:5000/projects/${id}`, {
+      method: 'PATCH',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(newProject)
+    }).then(response => response.json())
+      .then(data => {
+        setProject(data)
+        setMessage('Serviço removido!')
+        setMessageType('success')
+      })
+      .catch(err => console.log(err))
   }
 
   function toggleProjectForm() {

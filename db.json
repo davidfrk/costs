@@ -2,115 +2,25 @@
   "projects": [
     {
       "id": "4ef9",
-      "name": "a",
-      "budget": "12",
+      "name": "Reforma",
+      "budget": "1200",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": 12,
+      "cost": 1000,
       "services": [
         {
-          "name": "q",
-          "description": "a",
-          "id": "e5bc47c9-fdba-4663-9d26-2942d18fbb37",
-          "cost": "0"
+          "name": "Encanamento",
+          "cost": "100",
+          "description": "Encanamento na residência",
+          "id": "0c7e8fe2-2eda-44d7-b63d-72ddf7a2e772"
         },
         {
-          "name": "q",
-          "description": "a",
-          "id": "05a31254-6c57-46e6-a926-5062664dc585",
-          "cost": "0"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "8d00713d-c4fc-4450-978e-766fe086ab60",
-          "cost": "0"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "9acf703d-cb1b-48f9-b4c4-53990750d307",
-          "cost": "0"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "6475005f-643f-4a3d-b5cd-42bf7674104b",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "053e7ca9-99f4-41f1-9d90-0e5f0c9795bd",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "9ad42b62-7909-4a3e-9512-70669b44af98",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "3e0319bd-59ce-4e45-b022-6dd335683ad4",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "d7da2668-f2a9-4ee1-ac79-38658e41f5a8",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "4c6a8370-1a89-4dc3-b3c9-1bb5c3ea0c52",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "7814a44b-3ee9-4e5f-8eb5-a99d4182d33e",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "f53471ac-3610-4c95-8153-1b452d742387",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "824b8f78-c142-4b35-aaeb-4f0c2faa2a9a",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "e7fcc387-590b-4f1c-baaa-277951df9888",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "bec58281-48af-4d99-8b1a-7061c6e76786",
-          "cost": "1"
-        },
-        {
-          "name": "q",
-          "description": "a",
-          "id": "e116b886-1681-4bea-a389-790e561041d1",
-          "cost": "1"
-        },
-        {
-          "id": "19df3e02-da58-4172-9f77-2789690a1758",
-          "name": "asd",
-          "cost": "0",
-          "description": "asd"
+          "cost": "900",
+          "name": "Mão de obra",
+          "description": "Contratar Bob",
+          "id": "3c717d2f-02e0-4a4d-973e-88ff091e0485"
         }
       ]
     },

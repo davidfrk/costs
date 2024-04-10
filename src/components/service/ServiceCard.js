@@ -3,7 +3,7 @@ import styles from '../project/ProjectCard.module.css'
 
 function ServiceCard ({ id, name, cost, description, handleRemove }) {
   function remove() {
-
+    handleRemove(id)
   }
   
   return (
