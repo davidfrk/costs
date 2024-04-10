@@ -1,6 +1,6 @@
 # Costs
 
-Training project developed with React, following a course from [https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO](Hora de Codar).
+Training project developed with React, following a course from [Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO).
 
 ## Pages
 
