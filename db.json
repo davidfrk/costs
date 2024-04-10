@@ -3,7 +3,7 @@
     {
       "id": "4ef9",
       "name": "Reforma",
-      "budget": "1200",
+      "budget": "3000",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -26,14 +26,69 @@
     },
     {
       "id": "3cee",
-      "name": "b",
-      "budget": "12",
+      "name": "Imobiliária",
+      "budget": "10000",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 9400,
+      "services": [
+        {
+          "name": "Domínio da página",
+          "cost": "100",
+          "description": "Registrar domínio com Squarespace",
+          "id": "6f03e453-fb15-44ca-8893-e290eba1d630"
+        },
+        {
+          "cost": "0",
+          "description": "Definir nome criativo, que possa ser encontrado e lembrado por clientes",
+          "name": "Definir nome",
+          "id": "ca7126b5-3689-4d5d-b4dd-19e317d86fb1"
+        },
+        {
+          "name": "Desenvolvimento da página",
+          "cost": "5000",
+          "description": "Desenvolver página incluindo api",
+          "id": "4f4d75f7-cdf7-48eb-b277-f5215b4dcf81"
+        },
+        {
+          "description": "Fazer deploy da página em infraestrutura moderna",
+          "cost": "500",
+          "name": "Deploy",
+          "id": "6993cc6b-a04e-45b5-96d5-fea2b8b399e0"
+        },
+        {
+          "cost": "1800",
+          "description": "Custo de hosteamento anual",
+          "name": "Hosteamento",
+          "id": "0b3e196d-d088-42a8-aa3c-4601e653fe5d"
+        },
+        {
+          "name": "Publicidade",
+          "cost": "2000",
+          "description": "Anunciar é o que traz visibilidade ao vendedor",
+          "id": "a02afb6a-d7e5-43e2-9bfb-812734ea630a"
+        }
+      ]
+    },
+    {
+      "id": "092d",
+      "name": "Aplicação de Georreferenciamento",
+      "budget": "60000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 20000,
+      "services": [
+        {
+          "name": "Desenvolvimento da aplicação web",
+          "cost": "20000",
+          "description": "Desenvolvimento da aplicação web, incluindo página, api e banco de dados",
+          "id": "8716b4bd-9018-4202-8f33-bfdf55fd12ce"
+        }
+      ]
     }
   ],
   "categories": [
